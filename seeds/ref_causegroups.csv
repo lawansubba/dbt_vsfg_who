@@ -1,0 +1,186 @@
+Level III,Level II,Level I
+Malaria,Neglected tropical diseases and malaria,All causes
+Chagas disease,Neglected tropical diseases and malaria,All causes
+African trypanosomiasis,Neglected tropical diseases and malaria,All causes
+Schistosomiasis,Neglected tropical diseases and malaria,All causes
+Cysticercosis,Neglected tropical diseases and malaria,All causes
+Cystic echinococcosis,Neglected tropical diseases and malaria,All causes
+Onchocerciasis,Neglected tropical diseases and malaria,All causes
+Trachoma,Neglected tropical diseases and malaria,All causes
+Dengue,Neglected tropical diseases and malaria,All causes
+Food-borne trematodiases,Neglected tropical diseases and malaria,All causes
+Ebola,Neglected tropical diseases and malaria,All causes
+Zika virus,Neglected tropical diseases and malaria,All causes
+Protein-energy malnutrition,Nutritional deficiencies,All causes
+Iodine deficiency,Nutritional deficiencies,All causes
+Vitamin A deficiency,Nutritional deficiencies,All causes
+Esophageal cancer,Neoplasms,All causes
+Stomach cancer,Neoplasms,All causes
+Liver cancer due to hepatitis B,Neoplasms,All causes
+Liver cancer due to hepatitis C,Neoplasms,All causes
+Liver cancer due to alcohol use,Neoplasms,All causes
+Liver cancer due to NASH,Neoplasms,All causes
+Hepatoblastoma,Neoplasms,All causes
+Liver cancer due to other causes,Neoplasms,All causes
+Larynx cancer,Neoplasms,All causes
+"Tracheal, bronchus, and lung cancer",Neoplasms,All causes
+Breast cancer,Neoplasms,All causes
+Cervical cancer,Neoplasms,All causes
+Uterine cancer,Neoplasms,All causes
+Prostate cancer,Neoplasms,All causes
+Colon and rectum cancer,Neoplasms,All causes
+Lip and oral cavity cancer,Neoplasms,All causes
+Nasopharynx cancer,Neoplasms,All causes
+Other pharynx cancer,Neoplasms,All causes
+Gallbladder and biliary tract cancer,Neoplasms,All causes
+Pancreatic cancer,Neoplasms,All causes
+Malignant skin melanoma,Neoplasms,All causes
+Non-melanoma skin cancer (squamous-cell carcinoma),Neoplasms,All causes
+Ovarian cancer,Neoplasms,All causes
+Testicular cancer,Neoplasms,All causes
+Kidney cancer,Neoplasms,All causes
+Bladder cancer,Neoplasms,All causes
+Brain and central nervous system cancer,Neoplasms,All causes
+Thyroid cancer,Neoplasms,All causes
+Mesothelioma,Neoplasms,All causes
+Hodgkin lymphoma,Neoplasms,All causes
+Burkitt lymphoma,Neoplasms,All causes
+Other non-Hodgkin lymphoma,Neoplasms,All causes
+Multiple myeloma,Neoplasms,All causes
+Acute lymphoid leukemia,Neoplasms,All causes
+Chronic lymphoid leukemia,Neoplasms,All causes
+Acute myeloid leukemia,Neoplasms,All causes
+Chronic myeloid leukemia,Neoplasms,All causes
+Other leukemia,Neoplasms,All causes
+Other malignant neoplasms,Neoplasms,All causes
+Retinoblastoma,Neoplasms,All causes
+Other eye cancers,Neoplasms,All causes
+Soft tissue and other extraosseous sarcomas,Neoplasms,All causes
+Malignant neoplasm of bone and articular cartilage,Neoplasms,All causes
+Neuroblastoma and other peripheral nervous cell tumors,Neoplasms,All causes
+Rheumatic heart disease,Cardiovascular diseases,All causes
+Ischemic heart disease,Cardiovascular diseases,All causes
+Ischemic stroke,Cardiovascular diseases,All causes
+Intracerebral hemorrhage,Cardiovascular diseases,All causes
+Subarachnoid hemorrhage,Cardiovascular diseases,All causes
+Hypertensive heart disease,Cardiovascular diseases,All causes
+Myocarditis,Cardiovascular diseases,All causes
+Alcoholic cardiomyopathy,Cardiovascular diseases,All causes
+Other cardiomyopathy,Cardiovascular diseases,All causes
+Atrial fibrillation and flutter,Cardiovascular diseases,All causes
+Endocarditis,Cardiovascular diseases,All causes
+Non-rheumatic calcific aortic valve disease,Cardiovascular diseases,All causes
+Non-rheumatic degenerative mitral valve disease,Cardiovascular diseases,All causes
+Other non-rheumatic valve diseases,Cardiovascular diseases,All causes
+Other cardiovascular and circulatory diseases,Cardiovascular diseases,All causes
+Pulmonary Arterial Hypertension,Cardiovascular diseases,All causes
+Chronic obstructive pulmonary disease,Chronic respiratory diseases,All causes
+Silicosis,Chronic respiratory diseases,All causes
+Asbestosis,Chronic respiratory diseases,All causes
+Coal workers pneumoconiosis,Chronic respiratory diseases,All causes
+Other pneumoconiosis,Chronic respiratory diseases,All causes
+Interstitial lung disease and pulmonary sarcoidosis,Chronic respiratory diseases,All causes
+Cirrhosis and other chronic liver diseases due to hepatitis B,Digestive diseases,All causes
+Cirrhosis and other chronic liver diseases due to hepatitis C,Digestive diseases,All causes
+Cirrhosis and other chronic liver diseases due to alcohol use,Digestive diseases,All causes
+Cirrhosis and other chronic liver diseases due to NAFLD,Digestive diseases,All causes
+Cirrhosis and other chronic liver diseases due to other causes,Digestive diseases,All causes
+"Inguinal, femoral, and abdominal hernia",Digestive diseases,All causes
+Ulcerative colitis,Digestive diseases,All causes
+Crohn's disease,Digestive diseases,All causes
+Vascular intestinal disorders,Digestive diseases,All causes
+Pancreatitis,Digestive diseases,All causes
+Peptic ulcer disease,Digestive diseases,All causes
+Gastritis and duodenitis,Digestive diseases,All causes
+Alzheimer's disease and other dementias,Neurological disorders,All causes
+Parkinson's disease,Neurological disorders,All causes
+Idiopathic epilepsy,Neurological disorders,All causes
+Multiple sclerosis,Neurological disorders,All causes
+Motor neuron disease,Neurological disorders,All causes
+Other neurological disorders,Neurological disorders,All causes
+Migraine,Neurological disorders,All causes
+Tension-type headache,Neurological disorders,All causes
+Schizophrenia,Mental disorders,All causes
+Major depressive disorder,Mental disorders,All causes
+Bipolar disorder,Mental disorders,All causes
+Anxiety disorders,Mental disorders,All causes
+Anorexia nervosa,Mental disorders,All causes
+Bulimia nervosa,Mental disorders,All causes
+Autism spectrum disorders,Mental disorders,All causes
+Conduct disorder,Mental disorders,All causes
+Idiopathic developmental intellectual disability,Mental disorders,All causes
+Other mental disorders,Mental disorders,All causes
+Rheumatoid arthritis,Musculoskeletal disorders,All causes
+Osteoarthritis hip,Musculoskeletal disorders,All causes
+Osteoarthritis knee,Musculoskeletal disorders,All causes
+Osteoarthritis hand,Musculoskeletal disorders,All causes
+Osteoarthritis other,Musculoskeletal disorders,All causes
+Low back pain,Musculoskeletal disorders,All causes
+Neck pain,Musculoskeletal disorders,All causes
+Gout,Musculoskeletal disorders,All causes
+Other musculoskeletal disorders,Musculoskeletal disorders,All causes
+Uterine fibroids,Other non-communicable diseases,All causes
+Endometriosis,Other non-communicable diseases,All causes
+Other gynecological diseases,Other non-communicable diseases,All causes
+Thalassemias,Other non-communicable diseases,All causes
+Sickle cell disorders,Other non-communicable diseases,All causes
+G6PD deficiency,Other non-communicable diseases,All causes
+Other hemoglobinopathies and hemolytic anemias,Other non-communicable diseases,All causes
+Thyroid diseases,Other non-communicable diseases,All causes
+Neural tube defects,Other non-communicable diseases,All causes
+Congenital heart anomalies,Other non-communicable diseases,All causes
+Down syndrome,Other non-communicable diseases,All causes
+Other chromosomal abnormalities,Other non-communicable diseases,All causes
+Congenital musculoskeletal and limb anomalies,Other non-communicable diseases,All causes
+Urogenital congenital anomalies,Other non-communicable diseases,All causes
+Digestive congenital anomalies,Other non-communicable diseases,All causes
+Other congenital birth defects,Other non-communicable diseases,All causes
+Atopic dermatitis,Skin and subcutaneous diseases,All causes
+Contact dermatitis,Skin and subcutaneous diseases,All causes
+Psoriasis,Skin and subcutaneous diseases,All causes
+Acne vulgaris,Skin and subcutaneous diseases,All causes
+Urticaria,Skin and subcutaneous diseases,All causes
+Age-related and other hearing loss,Sense organ diseases,All causes
+Glaucoma,Sense organ diseases,All causes
+Cataract,Sense organ diseases,All causes
+Age-related macular degeneration,Sense organ diseases,All causes
+Refraction disorders,Sense organ diseases,All causes
+Other vision loss,Sense organ diseases,All causes
+HIV/AIDS - Drug-susceptible Tuberculosis,HIV/AIDS and sexually transmitted infections,All causes
+HIV/AIDS - Multidrug-resistant Tuberculosis without extensive drug resistance,HIV/AIDS and sexually transmitted infections,All causes
+HIV/AIDS - Extensively drug-resistant Tuberculosis,HIV/AIDS and sexually transmitted infections,All causes
+HIV/AIDS resulting in other diseases,HIV/AIDS and sexually transmitted infections,All causes
+Syphilis,HIV/AIDS and sexually transmitted infections,All causes
+Chlamydial infection,HIV/AIDS and sexually transmitted infections,All causes
+Gonococcal infection,HIV/AIDS and sexually transmitted infections,All causes
+Other sexually transmitted infections,HIV/AIDS and sexually transmitted infections,All causes
+Drug-susceptible tuberculosis,Respiratory infections and tuberculosis,All causes
+Multidrug-resistant tuberculosis without extensive drug resistance,Respiratory infections and tuberculosis,All causes
+Extensively drug-resistant tuberculosis,Respiratory infections and tuberculosis,All causes
+Lower respiratory infections,Respiratory infections and tuberculosis,All causes
+Upper respiratory infections,Respiratory infections and tuberculosis,All causes
+Otitis media,Respiratory infections and tuberculosis,All causes
+COVID-19,Respiratory infections and tuberculosis,All causes
+Diarrheal diseases,Enteric infections,All causes
+Meningitis,Other infectious diseases,All causes
+Encephalitis,Other infectious diseases,All causes
+Tetanus,Other infectious diseases,All causes
+Other unspecified infectious diseases,Other infectious diseases,All causes
+Maternal obstructed labor and uterine rupture,Maternal and neonatal disorders,All causes
+Neonatal preterm birth,Maternal and neonatal disorders,All causes
+Neonatal encephalopathy due to birth asphyxia and trauma,Maternal and neonatal disorders,All causes
+Neonatal sepsis and other neonatal infections,Maternal and neonatal disorders,All causes
+Hemolytic disease and other neonatal jaundice,Maternal and neonatal disorders,All causes
+Alcohol use disorders,Substance use disorders,All causes
+Opioid use disorders,Substance use disorders,All causes
+Cocaine use disorders,Substance use disorders,All causes
+Amphetamine use disorders,Substance use disorders,All causes
+Cannabis use disorders,Substance use disorders,All causes
+Diabetes mellitus type 1,Diabetes and kidney diseases,All causes
+Diabetes mellitus type 2,Diabetes and kidney diseases,All causes
+Chronic kidney disease due to diabetes mellitus type 1,Diabetes and kidney diseases,All causes
+Chronic kidney disease due to diabetes mellitus type 2,Diabetes and kidney diseases,All causes
+Chronic kidney disease due to hypertension,Diabetes and kidney diseases,All causes
+Chronic kidney disease due to glomerulonephritis,Diabetes and kidney diseases,All causes
+Chronic kidney disease due to other and unspecified causes,Diabetes and kidney diseases,All causes
+injuries,Injuries,All causes

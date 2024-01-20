@@ -1,0 +1,13 @@
+level,Level of detail,,
+1,1=all causes of disability,,
+2,"2=groups of causes of disability, e.g. neurological disease or mental health diseases",,
+3,"3=exact cause of disability, e.g. autism",,
+,,,
+,,,"The data is grouped into three levels: Level I, Level II and Level III."
+,,,
+,,,Level I represents the total of all health conditions.
+,,,Level II groups individual conditions into categories.
+,,,Level III presents each condition separately.
+,,,
+,,,"In levels I and II, adjustment for comorbidity has been done."
+,,,This means that people with more than one condition are counted only once.
