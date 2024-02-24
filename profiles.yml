@@ -2,11 +2,10 @@ dbt_vsfg_who:
   target: dev
   outputs:
     dev:
-      type: postgres
-      host: localhost
-      user: alice
-      password: <password>
-      port: 5432
-      dbname: jaffle_shop
-      schema: dbt_alice
-      threads: 4
+      type: databricks
+      catalog: dbt
+      schema: vsfg_who # Required
+      host: dbc-736d6ed9-ca55.cloud.databricks.com # Required
+      http_path: /sql/1.0/warehouses/480c7da52900444b # Required
+      token: dapib7e6d76d9f020ff4935eab6f5f4594b0 # Required Personal Access Token (PAT) if using token-based authentication
+      threads: 1  # Optional, default 1

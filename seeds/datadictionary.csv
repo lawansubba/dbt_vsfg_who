@@ -1,41 +1,41 @@
-Sheet,Column name,Explanation,Type
-Age table,,,
-,location_id,Geographic scope,Numeric code
-,age_group_id,Age range,Numeric code
-,age_group,Age range,text
-,sex_id,Sex,Numeric code
-,year_id,Year of data collected,Numeric code
-,severity,Severity,Text
-,metric_id,Number or percentage of prevalence of disability,Numeric code
-,level,Granularity of cause,Numeric code
-,cause_name,Cause of disability,Text
-*,prev,Prevalence of disability,Decimal
-*,lower,"Prevalence of disability, lower value of confidence interval",Decimal
-*,upper,"Prevalence of disability, upper value of confidence interval",Decimal
+"Sheet","Column_name","Explanation","Type"
+"Age table",,,
+,"location_id","Geographic scope","Numeric code"
+,"age_group_id","Age range","Numeric code"
+,"age_group","Age range","text"
+,"sex_id","Sex","Numeric code"
+,"year_id","Year of data collected","Numeric code"
+,"severity","Severity","Text"
+,"metric_id","Number or percentage of prevalence of disability","Numeric code"
+,"level","Granularity of cause","Numeric code"
+,"cause_name","Cause of disability","Text"
+"*","prev","Prevalence of disability","Decimal"
+"*","lower","Prevalence of disability, lower value of confidence interval","Decimal"
+"*","upper","Prevalence of disability, upper value of confidence interval","Decimal"
 ,,,
-Income table,,,
-,income group countries,World Bank income group classification of countries (July 2020),Text
-,age_group_id,Age range,Numeric code
-,sex_id,Sex,Numeric code
-,year_id,Year of data collected,Numeric code
-,cause_name,Cause of disability,Text
-,level,Granularity of cause,Numeric code
-,severity,Severity,Text
-,metric_id,Number or percentage,Numeric code
-*,mean,"Prevalence of disability, average",Decimal
-*,lower,"Prevalence of disability, lower value of confidence interval",Decimal
-*,upper,"Prevalence of disability, upper value of confidence interval",Decimal
+"Income table",,,
+,"income group countries","World Bank income group classification of countries (July 2020)","Text"
+,"age_group_id","Age range","Numeric code"
+,"sex_id","Sex","Numeric code"
+,"year_id","Year of data collected","Numeric code"
+,"cause_name","Cause of disability","Text"
+,"level","Granularity of cause","Numeric code"
+,"severity","Severity","Text"
+,"metric_id","Number or percentage","Numeric code"
+"*","mean","Prevalence of disability, average","Decimal"
+"*","lower","Prevalence of disability, lower value of confidence interval","Decimal"
+"*","upper","Prevalence of disability, upper value of confidence interval","Decimal"
 ,,,
-Region table,,,
-,Region,WHO regional scope,Text
-,location_id,Geographic scope,Numeric code
-,age_group_id,Age range,Numeric code
-,sex_id,Sex,Numeric code
-,year_id,Year of data collected,Numeric code
-,cause_name,Cause of disability,Text
-,level,Granularity of cause,Numeric code
-,severity,Severity,Text
-,metric_id,Number or percentage,Numeric code
-*,mean,"Prevalence of disability, average",Decimal
-*,lower,"Prevalence of disability, lower value of confidence interval",Decimal
-*,upper,"Prevalence of disability, upper value of confidence interval",Decimal
+"Region table",,,
+,"Region","WHO regional scope","Text"
+,"location_id","Geographic scope","Numeric code"
+,"age_group_id","Age range","Numeric code"
+,"sex_id","Sex","Numeric code"
+,"year_id","Year of data collected","Numeric code"
+,"cause_name","Cause of disability","Text"
+,"level","Granularity of cause","Numeric code"
+,"severity","Severity","Text"
+,"metric_id","Number or percentage","Numeric code"
+"*","mean","Prevalence of disability, average","Decimal"
+"*","lower","Prevalence of disability, lower value of confidence interval","Decimal"
+"*","upper","Prevalence of disability, upper value of confidence interval","Decimal"

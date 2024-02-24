@@ -1,6 +1,7 @@
-Spreedsheet,Description ,Updated On
-"Age, Income, Regions",It is important to note that these tables should be treated as independent data sets. Any calculations performed on similar groupings across tables may not yield consistent results. These are real-world examples. Regions is from World Health Organization member states; Income is from World Bank countries; Age includes data for countries and territories for which IHME has data.,02 May 2023
-ref_levels,The levels in ref_levels sheet is described in a narrative manner in this same sheet and as follows.,02 May 2023
+"Addendum",,
+"Spreedsheet","Description ","Updated On"
+"Age, Income, Regions","It is important to note that these tables should be treated as independent data sets. Any calculations performed on similar groupings across tables may not yield consistent results. These are real-world examples. Regions is from World Health Organization member states; Income is from World Bank countries; Age includes data for countries and territories for which IHME has data.",02 May 2023
+"ref_levels","The levels in ref_levels sheet is described in a narrative manner in this same sheet and as follows.",02 May 2023
 ,"The data is grouped into three levels: Level I, Level II and Level III. 
  
  Level I represents the total of all health conditions. 
@@ -9,6 +10,6 @@ ref_levels,The levels in ref_levels sheet is described in a narrative manner in 
  
  In levels I and II, adjustment for comorbidity has been done. 
  This means that people with more than one condition are counted only once.",02 May 2023
-ref_cause,The column level was added. It signifies the level (of detail) of each cause.,02 May 2023
-ref_causegroups,This is a new sheet and describes the grouping and hierarchy of the causes by level.,02 May 2023
-DataDictionary,Included description of IncomeGroupCountries column for Age table,02 May 2023
+"ref_cause","The column level was added. It signifies the level (of detail) of each cause.",02 May 2023
+"ref_causegroups","This is a new sheet and describes the grouping and hierarchy of the causes by level.",02 May 2023
+"DataDictionary","Included description of IncomeGroupCountries column for Age table",02 May 2023
