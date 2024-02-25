@@ -1,13 +1,206 @@
-"level","Level_of_detail",,
-"1","1=all causes of disability",,
-"2","2=groups of causes of disability, e.g. neurological disease or mental health diseases",,
-"3","3=exact cause of disability, e.g. autism",,
-,,,
-,,,"The data is grouped into three levels: Level I, Level II and Level III."
-,,,
-,,,"Level I represents the total of all health conditions."
-,,,"Level II groups individual conditions into categories."
-,,,"Level III presents each condition separately."
-,,,
-,,,"In levels I and II, adjustment for comorbidity has been done."
-,,,"This means that people with more than one condition are counted only once."
+"cause_name","Level"
+"All causes",1
+"Skin and subcutaneous diseases",2
+"Neoplasms",2
+"Neglected tropical diseases and malaria",2
+"Sense organ diseases",2
+"Substance use disorders",2
+"Cardiovascular diseases",2
+"Neurological disorders",2
+"Mental disorders",2
+"Chronic respiratory diseases",2
+"Respiratory infections and tuberculosis",2
+"HIV/AIDS and sexually transmitted infections",2
+"Diabetes and kidney diseases",2
+"Digestive diseases",2
+"Other non-communicable diseases",2
+"Enteric infections",2
+"Other infectious diseases",2
+"Musculoskeletal disorders",2
+"Maternal and neonatal disorders",2
+"Nutritional deficiencies",2
+"Upper respiratory infections",3
+"Chagas disease",3
+"Schistosomiasis",3
+"Onchocerciasis",3
+"Trachoma",3
+"Dengue",3
+"Food-borne trematodiases",3
+"Maternal obstructed labor and uterine rupture",3
+"Iodine deficiency",3
+"Vitamin A deficiency",3
+"Chlamydial infection",3
+"Gonococcal infection",3
+"Other sexually transmitted infections",3
+"Other unspecified infectious diseases",3
+"Esophageal cancer",3
+"Stomach cancer",3
+"injuries",3
+"Liver cancer due to hepatitis B",3
+"Liver cancer due to hepatitis C",3
+"Liver cancer due to alcohol use",3
+"Liver cancer due to other causes",3
+"Larynx cancer",3
+"Tracheal, bronchus, and lung cancer",3
+"Breast cancer",3
+"Cervical cancer",3
+"Uterine cancer",3
+"Prostate cancer",3
+"Colon and rectum cancer",3
+"Lip and oral cavity cancer",3
+"Nasopharynx cancer",3
+"Other pharynx cancer",3
+"Gallbladder and biliary tract cancer",3
+"Pancreatic cancer",3
+"Malignant skin melanoma",3
+"Ovarian cancer",3
+"Testicular cancer",3
+"Kidney cancer",3
+"Bladder cancer",3
+"Brain and central nervous system cancer",3
+"Thyroid cancer",3
+"Mesothelioma",3
+"Hodgkin lymphoma",3
+"Multiple myeloma",3
+"Ischemic heart disease",3
+"Ischemic stroke",3
+"Intracerebral hemorrhage",3
+"Hypertensive heart disease",3
+"Endocarditis",3
+"Other cardiovascular and circulatory diseases",3
+"Chronic obstructive pulmonary disease",3
+"Silicosis",3
+"Asbestosis",3
+"Coal workers pneumoconiosis",3
+"Other pneumoconiosis",3
+"Interstitial lung disease and pulmonary sarcoidosis",3
+"Vascular intestinal disorders",3
+"Alzheimer's disease and other dementias",3
+"Parkinson's disease",3
+"Idiopathic epilepsy",3
+"Multiple sclerosis",3
+"Other neurological disorders",3
+"Schizophrenia",3
+"Alcohol use disorders",3
+"Major depressive disorder",3
+"Bipolar disorder",3
+"Anxiety disorders",3
+"Anorexia nervosa",3
+"Bulimia nervosa",3
+"Idiopathic developmental intellectual disability",3
+"Thalassemias",3
+"Other hemoglobinopathies and hemolytic anemias",3
+"Rheumatoid arthritis",3
+"Osteoarthritis hip",3
+"Osteoarthritis knee",3
+"Low back pain",3
+"Neck pain",3
+"Gout",3
+"Other musculoskeletal disorders",3
+"Other congenital birth defects",3
+"Atopic dermatitis",3
+"Psoriasis",3
+"Urticaria",3
+"Glaucoma",3
+"Cataract",3
+"Age-related macular degeneration",3
+"Refraction disorders",3
+"Age-related and other hearing loss",3
+"Other vision loss",3
+"Contact dermatitis",3
+"Diarrheal diseases",3
+"Lower respiratory infections",3
+"Other mental disorders",3
+"Cysticercosis",3
+"Opioid use disorders",3
+"Hemolytic disease and other neonatal jaundice",3
+"Neonatal preterm birth",3
+"Neonatal encephalopathy due to birth asphyxia and trauma",3
+"Tetanus",3
+"Cystic echinococcosis",3
+"Encephalitis",3
+"Cocaine use disorders",3
+"Amphetamine use disorders",3
+"Cannabis use disorders",3
+"Conduct disorder",3
+"Other gynecological diseases",3
+"Endometriosis",3
+"Malaria",3
+"Atrial fibrillation and flutter",3
+"Sickle cell disorders",3
+"Otitis media",3
+"Uterine fibroids",3
+"Rheumatic heart disease",3
+"Motor neuron disease",3
+"Ebola",3
+"Acute lymphoid leukemia",3
+"Acute myeloid leukemia",3
+"Chronic lymphoid leukemia",3
+"Chronic myeloid leukemia",3
+"Down syndrome",3
+"Other chromosomal abnormalities",3
+"Neonatal sepsis and other neonatal infections",3
+"Autism spectrum disorders",3
+"Migraine",3
+"Tension-type headache",3
+"Chronic kidney disease due to hypertension",3
+"Chronic kidney disease due to glomerulonephritis",3
+"Chronic kidney disease due to other and unspecified causes",3
+"African trypanosomiasis",3
+"Other leukemia",3
+"Drug-susceptible tuberculosis",3
+"Multidrug-resistant tuberculosis without extensive drug resistance",3
+"Extensively drug-resistant tuberculosis",3
+"Zika virus",3
+"Myocarditis",3
+"Alcoholic cardiomyopathy",3
+"Other cardiomyopathy",3
+"Congenital musculoskeletal and limb anomalies",3
+"Digestive congenital anomalies",3
+"Urogenital congenital anomalies",3
+"Neural tube defects",3
+"Protein-energy malnutrition",3
+"Non-melanoma skin cancer (squamous-cell carcinoma)",3
+"Syphilis",3
+"Inguinal, femoral, and abdominal hernia",3
+"Pancreatitis",3
+"Acne vulgaris",3
+"Congenital heart anomalies",3
+"Peptic ulcer disease",3
+"Gastritis and duodenitis",3
+"HIV/AIDS resulting in other diseases",3
+"HIV/AIDS - Drug-susceptible Tuberculosis",3
+"HIV/AIDS - Multidrug-resistant Tuberculosis without extensive drug resistance",3
+"HIV/AIDS - Extensively drug-resistant Tuberculosis",3
+"Subarachnoid hemorrhage",3
+"Chronic kidney disease due to diabetes mellitus type 1",3
+"Chronic kidney disease due to diabetes mellitus type 2",3
+"Non-rheumatic calcific aortic valve disease",3
+"Non-rheumatic degenerative mitral valve disease",3
+"Other non-rheumatic valve diseases",3
+"Liver cancer due to NASH",3
+"Diabetes mellitus type 1",3
+"Diabetes mellitus type 2",3
+"Ulcerative colitis",3
+"Crohn's disease",3
+"Other malignant neoplasms",3
+"Meningitis",3
+"Osteoarthritis hand",3
+"Osteoarthritis other",3
+"Burkitt lymphoma",3
+"Other non-Hodgkin lymphoma",3
+"Hepatoblastoma",3
+"Retinoblastoma",3
+"Other eye cancers",3
+"Soft tissue and other extraosseous sarcomas",3
+"Malignant neoplasm of bone and articular cartilage",3
+"Neuroblastoma and other peripheral nervous cell tumors",3
+"Pulmonary Arterial Hypertension",3
+"Cirrhosis and other chronic liver diseases due to hepatitis B",3
+"Cirrhosis and other chronic liver diseases due to hepatitis C",3
+"Cirrhosis and other chronic liver diseases due to alcohol use",3
+"Cirrhosis and other chronic liver diseases due to other causes",3
+"Cirrhosis and other chronic liver diseases due to NAFLD",3
+"G6PD deficiency",3
+"Thyroid diseases",3
+"COVID-19",3
